@@ -12,8 +12,8 @@ Final Year Engineering UnderGraduate(Graduating 2021)
 - 📫 You can reach me at: gyrsh.bhatnagar@gmail.com
 
 Check out my:
--LinkedIn : https://www.linkedin.com/in/vibhor-bhatnagar-5381951b6/
--Resume: https://drive.google.com/file/d/17Z3fOkICKv3ZeubtAUKmMu2cthHNZ6L_/view?usp=sharing
+- LinkedIn : https://www.linkedin.com/in/vibhor-bhatnagar-5381951b6/
+- Resume: https://drive.google.com/file/d/17Z3fOkICKv3ZeubtAUKmMu2cthHNZ6L_/view?usp=sharing
 
 <!---- ⚡ Fun fact: ...
 -->
