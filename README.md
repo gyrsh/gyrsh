@@ -2,14 +2,14 @@
 
 
 <!---**gyrsh/gyrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-About me:
-Final Year Engineering UnderGraduate(Graduating 2021) 
-- 🔭 Currently working on REST APIs.
-- 🌱 Currently learning Advance Data Structures and Algorithms.
-- 👯 Love to collaborate on open source.
+#About me:
+##Software Engineer (Grad 2021) 
+- 🔭 Currently working on MicroService & open-source.
 - 🤔 Looking for SDE Roles.
-- 💬 Ask me about Django,Django-REST,Data Structures,Algorithms,SQL.
-- 📫 You can reach me at: gyrsh.bhatnagar@gmail.com
+- 💬 Ask me about Django,SpringBoot,FastApi,Data Structures,Algorithms,SQL.
+- 📫 You can reach me at: gyrshwatson@gmail.com
+
+
 
 Check out my:
 - LinkedIn : https://www.linkedin.com/in/vibhor-bhatnagar-5381951b6/
