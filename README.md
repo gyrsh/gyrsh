@@ -19,7 +19,7 @@
 
 Check out my:
 - LinkedIn : https://www.linkedin.com/in/vibhor-bhatnagar-5381951b6/
-- Resume: https://drive.google.com/file/d/17Z3fOkICKv3ZeubtAUKmMu2cthHNZ6L_/view?usp=sharing(Not Updated)
+- Resume: https://drive.google.com/file/d/17Z3fOkICKv3ZeubtAUKmMu2cthHNZ6L_/view?usp=sharing (Not Updated)
 
 <!---- ⚡ Fun fact: ...
 -->
