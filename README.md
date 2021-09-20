@@ -6,7 +6,7 @@
 ## Software Engineer 1 (Grad 2021) @ Core Value Technologies Pvt Ltd
 
 # My Work
-## As JAVA Backend Developer
+## As Java Backend Developer
 - Java Spring Boot Microservice  : https://github.com/gyrsh/OrgEmployee_Microservice
 
 ## As Python Backend Developer
