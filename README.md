@@ -2,7 +2,7 @@
 
 
 <!---**gyrsh/gyrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# About me:
+# About me
 ## Software Engineer 1 (Grad 2021) @ Core Value Technologies Pvt Ltd
 
 # My Work
